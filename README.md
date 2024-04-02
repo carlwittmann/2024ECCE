@@ -41,7 +41,7 @@ __Map Display__
 
  Left map - the Access Map: The map on the left-hand side of the screen is the access map. The total colored area represents all built-up places within our regions of interest, while uncolored areas represent places with no urban development. Zones of the built-up area are colored based on their level of access to public transit or cycling networks. Access is broken down into zones with no access, plus four zones with varying degrees of ease and convenience. For more information on how access was classified, please consult the methodology section.
 
-![Access Map](/images/Access_Map.png)
+![Access Map](images/Access_Map.png)
 
  The mode switch button in the bottom left allows users to toggle between a map of public transit access and a map of cycling network access. The button will switch to indicate which map is being shown. The title of the currently-displayed map is also shown above the legend.
 
